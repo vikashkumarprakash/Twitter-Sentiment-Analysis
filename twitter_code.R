@@ -32,10 +32,10 @@ accessURL <- 'https://api.twitter.com/oauth/access_token'
 authURL <- 'https://api.twitter.com/oauth/authorize'
 
 ###Twitter Application
-consumerKey="THWQ4dArRsSmX8B93QbgL6nA9"
-consumerSecret ="jOfgZkHd99pMMsHNTepduD2leB0n6FFzjzDkKcODuXLCynVyKU"
-accesstoken="1687355989-lTzl0j2rWAfjnyYBfMvhwd2kQc8buoOscXwrufa"
-accesssecret="xmPwgSSCSDuEL7vcJYJsW6UZTRzAU3Gql9H9nKN1eiytQ"
+consumerKey="THWQ4dArRsnA9"
+consumerSecret ="jOfgZkH9pzDkKcODuXLCynVyKU"
+accesstoken="168739-lTzl0j2rc8buoOscXwrufa"
+accesssecret="xmPwgSSCS7vcJYJsWql9H9nKN1eiytQ"
 
 Cred<-OAuthFactory$new(consumerKey=consumerKey,
                        consumerSecret=consumerSecret,
